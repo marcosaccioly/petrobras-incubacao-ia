@@ -18,19 +18,19 @@ Ver `_config/instituicoes.md`: INOVATE, CNPJ 26.141.886/0001-87, associação pr
 
 ## 3. Do que se trata este projeto? (síntese)
 
-*(texto completo em `02_sintese_projeto.md`, ~1350 caracteres: o que é o programa, chamada nacional com cota de 40% para o ES, mentoria dupla — por área técnica e para uso do ambiente virtual —, valor por incubado e formato dos lançamentos)*
+*(texto completo em `02_sintese_projeto.md`, **1.228 caracteres** — limite a confirmar na plataforma: o que é o programa, chamada nacional com cota de 40% para o ES, mentoria dupla — por área técnica e para uso do ambiente virtual —, valor por incubado e formato dos lançamentos)*
 
 ## 4. Descrição do Projeto
 
-*(limite 8000 caracteres — texto completo em `03_descricao_projeto.md`, ~7700 caracteres cobrindo trajetória de mentoria da INOVATE, nove anos de parceria com a OsViajero, apresentação do Marquito e do Cérebro Solunar como precedente do ambiente virtual, o que o motor Claude Code/Anthropic tem de diferente de um chatbot genérico, a atuação profissional do Marquito no CEFOR/IFES Campus Vitória como segundo precedente do método, os seis módulos do programa, capacidade administrativo-financeira e alinhamento com os eixos do Programa Petrobras Cultural. Números detalhados de orçamento ficam só no campo 16 "Valor Total da Proposta" e na Estratégia de Comunicação, evitando repetir os mesmos valores em três campos)*
+*(limite 8000 caracteres — texto completo em `03_descricao_projeto.md`, **7.578/8.000 (folga 5,3%)**, cobrindo trajetória de mentoria da INOVATE, nove anos de parceria com a OsViajero, apresentação do Marquito e do Cérebro Solunar como precedente do ambiente virtual, o que o motor Claude Code/Anthropic tem de diferente de um chatbot genérico — com a nota de que a base de conhecimento vive em arquivos abertos e versionados, independente do motor —, a replicação do método para sete outras organizações e profissionais, a atuação do Marquito no CEFOR/IFES Campus Vitória com escala real (80 mil+ usuários de Moodle, ~300 mil matrículas em cursos abertos, base de conhecimento pública no ar desde 07/2026), os seis módulos do programa, capacidade administrativo-financeira e alinhamento com os eixos do Programa Petrobras Cultural. Números detalhados de orçamento ficam só no campo 16 "Valor Total da Proposta" e na Estratégia de Comunicação, evitando repetir os mesmos valores em três campos. Revisão final 30/07: ver `REVISAO_MARQUITO.md`)*
 
 ## 5. Expertise para o Projeto
 
-*(limite 2000 caracteres — texto completo em `04_expertise_projeto.md`: trajetória da INOVATE desde 2013/2016, parceria de nove anos com a OsViajero, e o Cérebro Solunar como ferramenta já validada em produção)*
+*(limite 2000 caracteres — texto completo em `04_expertise_projeto.md`, **1.609/2.000**: trajetória da INOVATE desde 2013/2016, parceria de nove anos com a OsViajero, e o Cérebro Solunar como ferramenta já validada em produção)*
 
 ## 6. Ficha Técnica / Principais Integrantes
 
-*(limite 4000 caracteres — texto completo em `05_ficha_tecnica.md`: Marcos Vinicius Forecchi Accioly na coordenação técnica; Henrique Fontes na mentoria de dramaturgia e roteiro audiovisual; Maria Cláudia Baima Ferreira na mentoria de literatura; profissional de comunicação, coordenação de acessibilidade e gestão administrativo-financeira ainda "a definir")*
+*(limite 4000 caracteres — texto completo em `05_ficha_tecnica.md`, **2.985/4.000**: Marcos Vinicius Forecchi Accioly na coordenação técnica; Henrique Fontes na mentoria de dramaturgia e roteiro audiovisual; Maria Cláudia Baima Ferreira na mentoria de literatura; profissional de comunicação, coordenação de acessibilidade e gestão administrativo-financeira ainda "a definir" — há 1.015 caracteres de folga para incluir nomes de última hora)*
 
 **Pendência 🟠:** nomes do profissional de comunicação, da coordenação de acessibilidade e da gestão administrativo-financeira.
 
@@ -40,7 +40,7 @@ Ver `_config/instituicoes.md`: INOVATE, CNPJ 26.141.886/0001-87, associação pr
 
 ## 8. Plano de Realização do Projeto
 
-*(limite 3500 caracteres — texto completo em `07_plano_realizacao.md`: cinco fases, da chamada pública ao relatório final)*
+*(limite 3500 caracteres — texto completo em `07_plano_realizacao.md`, **2.575/3.500**: cinco fases, da chamada pública ao relatório final)*
 
 ## 9. Detalhamento dos Eventos
 
@@ -48,7 +48,7 @@ Ver `_config/instituicoes.md`: INOVATE, CNPJ 26.141.886/0001-87, associação pr
 
 ## 10. Estratégia de Comunicação
 
-*(limite 4500 caracteres — texto completo em `09_estrategia_comunicacao.md`: divulgação nacional da chamada pública, documentação do processo de mentoria, cobertura dos lançamentos e medição de visibilidade)*
+*(limite 4500 caracteres — texto completo em `09_estrategia_comunicacao.md`, **2.992/4.500**: divulgação nacional da chamada pública, documentação do processo de mentoria, cobertura dos lançamentos e medição de visibilidade)*
 
 ## 11. Plano de Comunicação (Mídia Paga / Outras Ações)
 
@@ -61,11 +61,11 @@ Ver `_config/instituicoes.md`: INOVATE, CNPJ 26.141.886/0001-87, associação pr
 
 ## 12. Ação de Economia Criativa
 
-*(texto completo em `11_acao_economia_criativa.md`: o próprio programa de incubação já é economia criativa por definição regulamentar)*
+*(texto completo em `11_acao_economia_criativa.md`, **952 caracteres** — limite a confirmar: o próprio programa de incubação já é economia criativa por definição regulamentar)*
 
 ## 13. Mecanismos para Diversidade
 
-*(texto completo em `12_mecanismos_diversidade.md`: critério de seleção da chamada pública, acessibilidade do ambiente e dos lançamentos, e alcance territorial nacional com cota de 40% para o ES)*
+*(texto completo em `12_mecanismos_diversidade.md`, **1.240 caracteres** — limite a confirmar: critério de seleção da chamada pública; acessibilidade concreta — o ambiente virtual já opera por Telegram com captura por áudio e voz, além de Libras e acessibilidade arquitetônica nos lançamentos; e alcance territorial nacional com cota de 40% para o ES)*
 
 ## 14. Contrapartidas
 
